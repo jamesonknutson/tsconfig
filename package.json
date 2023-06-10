@@ -1,0 +1,25 @@
+{
+	"name": "@jamesonknutson/tsconfig",
+	"version": "1.0.0",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/jamesonknutson/tsconfig.git"
+  },
+	"author": "jamesonknutson",
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=16"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
