@@ -34,11 +34,5 @@
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "target": "ES2022"
-  },
-  "ts-node": {
-    "experimentalReplAwait": true,
-    "files": true,
-    "pretty": true,
-    "swc": true
   }
 }
